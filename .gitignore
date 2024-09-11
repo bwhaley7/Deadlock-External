@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/Deadlock External
+/Deadlock External/x64/Debug
+*.vcxproj
+*.filters
+*.user
+/x64/Debug
